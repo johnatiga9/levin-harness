@@ -44,20 +44,53 @@ GitHub's **Code > Download ZIP** and automatically generated **Source code** arc
 
 ## One workspace for scientific work
 
-| Capability | What you can do |
-| --- | --- |
-| [Molecular workspace](https://levinthal.design/molecular-workspace.html) | Inspect molecular structures in Mol* while keeping the structure, sequence, and agent conversation together. |
-| [Scientific plugins](https://levinthal.design/plugins.html) | Set up tools such as ProteinMPNN, FAMPNN, ThermoMPNN, and RFantibody, then call them from a chat or workflow. Extend the catalog with the Python Plugin SDK. |
-| [Research workflows](https://levinthal.design/workflows.html) | Build and refine reusable research processes with the agent on a shared visual canvas. |
-| [Remote GPU](https://levinthal.design/remote-gpu.html) | Connect your own Linux GPU host over SSH and run supported plugins and compute tasks remotely. |
-| [Your choice of model](https://levinthal.design/install.html) | Configure a model provider or compatible endpoint for your tasks, including private or self-hosted services. |
+### Molecular workspace
 
-<details>
-<summary>See the workflow canvas</summary>
+Inspect a structure in Mol*, select a chain or residue range, and bring it into the conversation. Structures, selections, and measurements become structured context for the agent, so you can discuss exact molecular details while it helps inspect, measure, and adjust the view.
+
+![Top7 structure in Mol* with molecular representations open beside the agent conversation](assets/molecular-context.webp)
+
+[Explore the molecular workspace](https://levinthal.design/molecular-workspace.html)
+
+### Scientific plugins
+
+Use tools such as ProteinMPNN, FAMPNN, ThermoMPNN, and RFantibody from a conversation or workflow. Plugins bring together skills, MCP tools, and managed runtimes, with supported deployments on your Mac or an SSH GPU host. To add another scientific tool, the built-in plugin creator can help inspect its GitHub repository, package it, and verify a real run.
+
+![Scientific plugin catalog with capability categories, plugin cards, MCP status, and deployment counts](assets/scientific-plugins.webp)
+
+[Browse plugins and create your own](https://levinthal.design/plugins.html)
+
+### Research workflows
+
+Describe your method in natural language, then refine the steps and branches with the agent on the same live canvas. Build turns the graph into a callable Skill; test it with sample inputs and review the agent's report for each step. The antibody-design canvas below connects sequence design, scoring, relaxation, and stability analysis.
 
 ![Lévin™ Harness showing an antibody design workflow on a visual canvas alongside an agent conversation](assets/workflows.webp)
 
-</details>
+[Explore research workflows](https://levinthal.design/workflows.html)
+
+### Remote GPU and background jobs
+
+Connect your own Linux GPU host over SSH to deploy supported plugins and run compute tasks. Jobs track status, execution details, and returned files beyond a single chat turn, and monitoring recovers after reconnecting or restarting the app. Bring the output back into your local project to review sequences, compare scores, and decide what to run next.
+
+![Completed ProteinMPNN jobs with returned FASTA sequences and JSON, Markdown, and CSV reports alongside the agent's result review](assets/compute-jobs.webp)
+
+[Connect a remote GPU](https://levinthal.design/remote-gpu.html) · [See how Jobs work](https://levinthal.design/jobs.html)
+
+### Persistent research goals
+
+Define the result you want, the constraints, and the evidence that will count as completion. Goal mode carries the work across turns, checks progress against files and execution results, and can wait for background jobs before continuing. Review phase updates, adjust the objective, or pause the work as the research develops.
+
+![An active ProteinMPNN research goal moving from positional-preference verification to final delivery, with phase updates and pause controls](assets/research-goals.webp)
+
+[Explore persistent goals](https://levinthal.design/goals.html)
+
+### Your choice of model
+
+Configure your preferred supported provider or a compatible endpoint, including private and self-hosted services. Keep multiple configurations, test the connection, and choose the default model for your work.
+
+![Model settings with saved provider configurations and a New Provider form for the endpoint, API key, and model](assets/model-providers.webp)
+
+[Set up your model provider](https://levinthal.design/install.html)
 
 ## Get started
 

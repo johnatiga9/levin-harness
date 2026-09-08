@@ -44,20 +44,53 @@ GitHub 的 **Code > Download ZIP** 和自动生成的 **Source code** 压缩包�
 
 ## 在同一个工作区完成科研任务
 
-| 核心能力 | 可以做什么 |
-| --- | --- |
-| [分子工作区](https://levinthal.design/molecular-workspace.html) | 在 Mol* 中查看和分析分子结构，让结构、序列与智能体对话保持关联。 |
-| [科学插件](https://levinthal.design/plugins.html) | 配置 ProteinMPNN、FAMPNN、ThermoMPNN、RFantibody 等工具，从对话或工作流中调用，也可通过 Python Plugin SDK 扩展。 |
-| [科研工作流](https://levinthal.design/workflows.html) | 与智能体在同一张可视化画布上构建、调整和复用研究流程。 |
-| [远程 GPU](https://levinthal.design/remote-gpu.html) | 通过 SSH 连接自己的 Linux GPU 服务器，在远端执行受支持的插件与计算任务。 |
-| [自选模型](https://levinthal.design/install.html) | 为任务配置模型供应商或兼容的服务地址，也可使用私有或自托管服务。 |
+### 分子工作区
 
-<details>
-<summary>查看工作流画布</summary>
+在 Mol* 中查看结构，选中一条链或一段残基，直接带入对话。结构、选择与测量结果会成为智能体的结构化上下文，让讨论落到具体的分子细节上；你也可以让智能体协助检查结构、测量距离和调整显示方式。
+
+![Mol* 中的 Top7 结构：分子表示面板与智能体对话同屏显示](assets/molecular-context.webp)
+
+[了解分子工作区](https://levinthal.design/molecular-workspace.html)
+
+### 科学插件
+
+从对话或工作流中调用 ProteinMPNN、FAMPNN、ThermoMPNN、RFantibody 等科学工具。插件将技能、MCP 工具与托管运行环境放在一起，可按支持情况部署到 Mac 或 SSH GPU 服务器。需要接入其他科学工具时，内置插件创建器可以协助分析其 GitHub 仓库、打包插件，并验证一次真实运行。
+
+![科学插件目录：按能力分类展示插件、MCP 状态和部署数量](assets/scientific-plugins.webp)
+
+[浏览与创建科学插件](https://levinthal.design/plugins.html)
+
+### 科研工作流
+
+用自然语言描述研究方法，再与智能体在同一张实时画布上细化步骤与分支。构建后，工作流会成为可调用的技能；用示例输入测试，并逐步检查智能体报告的执行结果。下图的抗体设计画布串联了序列设计、打分、结构松弛与稳定性分析。
 
 ![Lévin™ Harness 工作流画布：抗体设计流程与智能体对话同屏显示](assets/workflows.webp)
 
-</details>
+[了解科研工作流](https://levinthal.design/workflows.html)
+
+### 远程 GPU 与后台任务
+
+通过 SSH 连接自己的 Linux GPU 服务器，部署受支持的插件并执行计算。Jobs 持续记录任务状态、执行详情与返回文件，跨越单轮对话，在重新连接或重启应用后恢复监控。计算产物可以回到本地项目，供你检查序列、比较分数，再决定下一步实验。
+
+![已完成的 ProteinMPNN 任务：返回 FASTA 序列及 JSON、Markdown、CSV 报告，旁边是智能体对结果的复核](assets/compute-jobs.webp)
+
+[连接远程 GPU](https://levinthal.design/remote-gpu.html) · [了解 Jobs](https://levinthal.design/jobs.html)
+
+### 持续推进研究目标
+
+说明期望产物、任务约束，以及怎样才算完成。Goal 模式会跨轮次推进工作，用文件与执行结果检查进度，也能等待后台计算完成后继续。研究过程中，你可以查看阶段更新、调整目标，或随时暂停。
+
+![进行中的 ProteinMPNN 研究目标：从位点偏好验证进入最终交付阶段，展示阶段更新与暂停控件](assets/research-goals.webp)
+
+[了解持续目标](https://levinthal.design/goals.html)
+
+### 自选模型
+
+配置受支持的模型供应商或兼容接口，也可接入私有或自托管服务。保存多套配置，测试连接，并选择工作时使用的默认模型。
+
+![模型设置：已保存的供应商配置，以及填写服务地址、API Key 和模型的新建表单](assets/model-providers.webp)
+
+[配置模型服务](https://levinthal.design/install.html)
 
 ## 开始使用
 
