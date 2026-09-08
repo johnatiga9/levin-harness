@@ -1,8 +1,11 @@
-<p align="center">
-  <img src="assets/logo.png" width="72" height="72" alt="Levin Harness 标志" />
-</p>
-
-<h1 align="center">Levin Harness</h1>
+<a name="levin-harness"></a>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-on-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-on-light.png" />
+    <img src="assets/wordmark-on-light.png" width="320" alt="Levin Harness" />
+  </picture>
+</h1>
 
 <p align="center"><strong>让科学发现可编程。</strong></p>
 
