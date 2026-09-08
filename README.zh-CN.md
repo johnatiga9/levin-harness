@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-on-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-on-light.png" />
-    <img src="assets/wordmark-on-light.png" width="320" alt="Levin Harness" />
+    <img src="assets/wordmark-on-light.png" width="320" alt="Lévin™ Harness" />
   </picture>
 </h1>
 
@@ -28,15 +28,15 @@
 
 <p align="center">预览版 · Apple silicon · 自备模型服务</p>
 
-![Levin Harness 工作区：AI 智能体对话与 Mol* 中的 1AON 分子结构同屏显示](assets/workspace.webp)
+![Lévin™ Harness 工作区：AI 智能体对话与 Mol* 中的 1AON 分子结构同屏显示](assets/workspace.webp)
 
-这是 Levin Harness 的官方发布与反馈仓库，用于提供产品介绍、安装包和收集用户反馈。应用源码暂不公开。
+这是 Lévin™ Harness 的官方发布与反馈仓库，用于提供产品介绍、安装包和收集用户反馈。应用源码暂不公开。
 
 ## 下载
 
 | 平台 | 下载 | 状态 |
 | --- | --- | --- |
-| macOS，Apple silicon | [Levin Harness 2.902.4（.dmg）](https://levinthal.design/public/downloads/Levin-Harness-2.902.4-arm64.dmg) | 预览版 |
+| macOS，Apple silicon | [Lévin™ Harness 2.902.4（.dmg）](https://levinthal.design/public/downloads/Levin-Harness-2.902.4-arm64.dmg) | 预览版 |
 
 当前安装包由官网提供。后续在此发布的安装包和版本说明可在 [Releases](https://github.com/levinthal/levin-harrness/releases) 查看。
 
@@ -55,13 +55,13 @@
 <details>
 <summary>查看工作流画布</summary>
 
-![Levin Harness 工作流画布：抗体设计流程与智能体对话同屏显示](assets/workflows.webp)
+![Lévin™ Harness 工作流画布：抗体设计流程与智能体对话同屏显示](assets/workflows.webp)
 
 </details>
 
 ## 开始使用
 
-1. **安装应用。** 下载并打开 `.dmg`，将 Levin Harness 拖入 **Applications（应用程序）**。
+1. **安装应用。** 下载并打开 `.dmg`，将 Lévin™ Harness 拖入 **Applications（应用程序）**。
 2. **连接模型。** 打开 **Settings > Model > New provider**，填写模型服务配置，执行 **Test Connection**，保存并设为默认模型。
 3. **打开项目。** 选择本地文件夹，检查任务权限，然后开始对话。可以先让智能体列出项目文件或总结一份文档。
 
@@ -75,7 +75,7 @@
 
 ### 是否免费？
 
-预览阶段目前对非商业用途免费，具体以[服务条款](https://levinthal.design/terms.html)为准。模型供应商可能单独收取使用费用，这部分费用不包含在 Levin Harness 中。
+预览阶段目前对非商业用途免费，具体以[服务条款](https://levinthal.design/terms.html)为准。模型供应商可能单独收取使用费用，这部分费用不包含在 Lévin™ Harness 中。
 
 ### 数据存储在哪里？
 
@@ -83,7 +83,7 @@
 
 ### 这是开源项目吗？
 
-Levin Harness 应用源码暂不公开。本仓库提供产品说明、版本下载与反馈入口。集成开源工具不代表应用本身开源，各工具适用各自的使用条款。
+Lévin™ Harness 应用源码暂不公开。本仓库提供产品说明、版本下载与反馈入口。集成开源工具不代表应用本身开源，各工具适用各自的使用条款。
 
 ## 反馈与社区
 

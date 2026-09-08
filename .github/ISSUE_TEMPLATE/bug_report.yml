@@ -1,5 +1,5 @@
 name: Bug report / 问题反馈
-description: Report a problem with Levin Harness. 欢迎使用中文或英文。
+description: Report a problem with Lévin™ Harness. 欢迎使用中文或英文。
 title: "[Bug] "
 body:
   - type: markdown
@@ -13,7 +13,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: Levin Harness version / 应用版本
+      label: Lévin™ Harness version / 应用版本
       description: Enter the exact version you used, not just "latest". 请填写实际使用的完整版本号。
     validations:
       required: true

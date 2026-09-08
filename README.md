@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-on-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-on-light.png" />
-    <img src="assets/wordmark-on-light.png" width="320" alt="Levin Harness" />
+    <img src="assets/wordmark-on-light.png" width="320" alt="Lévin™ Harness" />
   </picture>
 </h1>
 
@@ -28,15 +28,15 @@
 
 <p align="center">Preview · Apple silicon · Bring your own model</p>
 
-![Levin Harness workspace with an AI agent conversation and the 1AON molecular structure in the Mol* viewer](assets/workspace.webp)
+![Lévin™ Harness workspace with an AI agent conversation and the 1AON molecular structure in the Mol* viewer](assets/workspace.webp)
 
-This is the official repository for Levin Harness releases, product information, and user feedback. The application source code is not publicly available.
+This is the official repository for Lévin™ Harness releases, product information, and user feedback. The application source code is not publicly available.
 
 ## Download
 
 | Platform | Download | Status |
 | --- | --- | --- |
-| macOS, Apple silicon | [Levin Harness 2.902.4 (.dmg)](https://levinthal.design/public/downloads/Levin-Harness-2.902.4-arm64.dmg) | Preview |
+| macOS, Apple silicon | [Lévin™ Harness 2.902.4 (.dmg)](https://levinthal.design/public/downloads/Levin-Harness-2.902.4-arm64.dmg) | Preview |
 
 The current installer is hosted on our website. See [Releases](https://github.com/levinthal/levin-harrness/releases) for packages and release notes as they become available here.
 
@@ -55,13 +55,13 @@ Download the `.dmg` installer. GitHub's **Code > Download ZIP** and automaticall
 <details>
 <summary>See the workflow canvas</summary>
 
-![Levin Harness showing an antibody design workflow on a visual canvas alongside an agent conversation](assets/workflows.webp)
+![Lévin™ Harness showing an antibody design workflow on a visual canvas alongside an agent conversation](assets/workflows.webp)
 
 </details>
 
 ## Get started
 
-1. **Install the app.** Download the `.dmg`, open it, and drag Levin Harness into **Applications**.
+1. **Install the app.** Download the `.dmg`, open it, and drag Lévin™ Harness into **Applications**.
 2. **Connect a model.** Open **Settings > Model > New provider**, enter your provider configuration, run **Test Connection**, and save it as the default model.
 3. **Open a project.** Choose a local folder, review the task permissions, and start a conversation. Try asking the agent to list the project files or summarize a document.
 
@@ -73,9 +73,9 @@ See the [installation guide](https://levinthal.design/install.html) for the comp
 
 The current preview supports macOS on Apple silicon. Builds for Intel Macs, Windows, and Linux are not currently available. A Linux GPU machine can be connected as a remote compute host.
 
-### Is Levin Harness free?
+### Is Lévin™ Harness free?
 
-The preview is currently free for non-commercial use, subject to the [Terms of Service](https://levinthal.design/terms.html). Model providers may charge separately for usage; those fees are not included with Levin Harness.
+The preview is currently free for non-commercial use, subject to the [Terms of Service](https://levinthal.design/terms.html). Model providers may charge separately for usage; those fees are not included with Lévin™ Harness.
 
 ### Where does my data go?
 
@@ -83,7 +83,7 @@ Projects, conversations, settings, and API keys are stored locally by default. T
 
 ### Is this an open-source project?
 
-The Levin Harness application source code is not public. This repository provides product information, release downloads, and a place to report problems or request features. Using an integrated open-source tool does not make the application itself open source; individual tools have their own terms.
+The Lévin™ Harness application source code is not public. This repository provides product information, release downloads, and a place to report problems or request features. Using an integrated open-source tool does not make the application itself open source; individual tools have their own terms.
 
 ## Feedback and community
 
