@@ -1,9 +1,9 @@
 <a name="levin-harness"></a>
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-on-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-on-light.png" />
-    <img src="assets/wordmark-on-light.png" width="320" alt="Lévin™ Harness" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-on-dark.png?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-on-light.png?v=2" />
+    <img src="assets/wordmark-on-light.png?v=2" width="320" alt="Lévin™ Harness" />
   </picture>
 </h1>
 
