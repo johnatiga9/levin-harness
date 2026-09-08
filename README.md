@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://levinthal.design/public/downloads/Levin-Harness-2.902.4-arm64.dmg">Download for macOS</a></strong> ·
+  <strong><a href="https://github.com/levinthal/levin-harrness/releases">Download for macOS</a></strong> ·
   <a href="https://levinthal.design/install.html">Installation</a> ·
   <a href="https://levinthal.design/docs.html">Documentation</a> ·
   <a href="https://github.com/levinthal/levin-harrness/releases">Releases</a> ·
@@ -36,11 +36,11 @@ This is the official repository for Lévin™ Harness releases, product informat
 
 | Platform | Download | Status |
 | --- | --- | --- |
-| macOS, Apple silicon | [Lévin™ Harness 2.902.4 (.dmg)](https://levinthal.design/public/downloads/Levin-Harness-2.902.4-arm64.dmg) | Preview |
+| macOS, Apple silicon | [Download from Releases](https://github.com/levinthal/levin-harrness/releases) | Preview |
 
-The current installer is hosted on our website. See [Releases](https://github.com/levinthal/levin-harrness/releases) for packages and release notes as they become available here.
+Choose a version in [Releases](https://github.com/levinthal/levin-harrness/releases), review its release notes, and download the `.dmg` installer from **Assets**.
 
-Download the `.dmg` installer. GitHub's **Code > Download ZIP** and automatically generated **Source code** archives contain this repository's documentation and images, not the application.
+GitHub's **Code > Download ZIP** and automatically generated **Source code** archives contain this repository's documentation and images, not the application.
 
 ## One workspace for scientific work
 

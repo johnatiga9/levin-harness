@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://levinthal.design/public/downloads/Levin-Harness-2.902.4-arm64.dmg">下载 macOS 版</a></strong> ·
+  <strong><a href="https://github.com/levinthal/levin-harrness/releases">下载 macOS 版</a></strong> ·
   <a href="https://levinthal.design/install.html">安装指南</a> ·
   <a href="https://levinthal.design/docs.html">使用文档</a> ·
   <a href="https://github.com/levinthal/levin-harrness/releases">版本发布</a> ·
@@ -36,11 +36,11 @@
 
 | 平台 | 下载 | 状态 |
 | --- | --- | --- |
-| macOS，Apple silicon | [Lévin™ Harness 2.902.4（.dmg）](https://levinthal.design/public/downloads/Levin-Harness-2.902.4-arm64.dmg) | 预览版 |
+| macOS，Apple silicon | [前往 Releases 下载](https://github.com/levinthal/levin-harrness/releases) | 预览版 |
 
-当前安装包由官网提供。后续在此发布的安装包和版本说明可在 [Releases](https://github.com/levinthal/levin-harrness/releases) 查看。
+在 [Releases](https://github.com/levinthal/levin-harrness/releases) 中选择版本、查看更新说明，并从 **Assets** 下载 `.dmg` 安装包。
 
-请下载 `.dmg` 安装包。GitHub 的 **Code > Download ZIP** 和自动生成的 **Source code** 压缩包只包含本仓库的说明文档与图片，不包含应用程序。
+GitHub 的 **Code > Download ZIP** 和自动生成的 **Source code** 压缩包只包含本仓库的说明文档与图片，不包含应用程序。
 
 ## 在同一个工作区完成科研任务
 
