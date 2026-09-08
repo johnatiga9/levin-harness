@@ -40,6 +40,8 @@
 
 在 [Releases](https://github.com/levinthal/levin-harrness/releases) 中选择版本、查看更新说明，并从 **Assets** 下载 `.dmg` 安装包。
 
+安装或使用前，请阅读[用户服务协议](TERMS.zh-CN.md)、[隐私政策](PRIVACY.zh-CN.md)与[许可说明](LICENSE.md#中文)。
+
 GitHub 的 **Code > Download ZIP** 和自动生成的 **Source code** 压缩包只包含本仓库的说明文档与图片，不包含应用程序。
 
 ## 在同一个工作区完成科研任务
@@ -108,15 +110,27 @@ GitHub 的 **Code > Download ZIP** 和自动生成的 **Source code** 压缩包�
 
 ### 是否免费？
 
-预览阶段目前对非商业用途免费，具体以[服务条款](https://levinthal.design/terms.html)为准。模型供应商可能单独收取使用费用，这部分费用不包含在 Lévin™ Harness 中。
+预览阶段目前对非商业用途免费，具体以[用户服务协议](TERMS.zh-CN.md)为准。模型供应商可能单独收取使用费用，这部分费用不包含在 Lévin™ Harness 中。
 
 ### 数据存储在哪里？
 
-项目、对话、设置与 API Key 默认保存在本机。执行任务时，相关内容会发送给你配置的模型服务商；远程任务也可能向所选计算设备传输必要的输入。详情见[隐私政策](https://levinthal.design/privacy.html)及模型供应商的相关设置。
+项目、对话、设置与 API Key 默认保存在本机。执行任务时，相关内容会发送给你配置的模型服务商；远程任务也可能向所选计算设备传输必要的输入。详情见[隐私政策](PRIVACY.zh-CN.md)及模型供应商的相关设置。
 
 ### 这是开源项目吗？
 
 Lévin™ Harness 应用源码暂不公开。本仓库提供产品说明、版本下载与反馈入口。集成开源工具不代表应用本身开源，各工具适用各自的使用条款。
+
+## 许可与法律文件
+
+本应用为专有软件。非商业用途可按协议使用；修改、再分发及商业使用需另行取得书面许可。
+
+| 文件 | 简体中文 | English |
+| --- | --- | --- |
+| 许可说明 | [许可说明](LICENSE.md#中文) | [License](LICENSE.md#english) |
+| 用户服务协议 | [协议全文](TERMS.zh-CN.md) | [Terms of Service](TERMS.md) |
+| 隐私政策 | [政策全文](PRIVACY.zh-CN.md) | [Privacy Policy](PRIVACY.md) |
+
+协议与隐私政策全文同步自官网，版本为 **V1.0**，生效日期为 **2026 年 9 月 10 日**。按各文件约定，中英文存在不一致、歧义或冲突时，以中文文本为准。
 
 ## 反馈与社区
 
@@ -124,4 +138,4 @@ Lévin™ Harness 应用源码暂不公开。本仓库提供产品说明、版�
 - 使用交流与科研工作流讨论可加入 [Discord](https://discord.gg/yENT5KyBT) 或[飞书社区](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=93blb389-88ea-4c04-a071-fbff366977ae&qr_code=true)。
 - 反馈所需信息见[支持说明](SUPPORT.md#中文)。
 
-[官网](https://levinthal.design/) · [使用文档](https://levinthal.design/docs.html) · [服务条款](https://levinthal.design/terms.html) · [隐私政策](https://levinthal.design/privacy.html)
+[官网](https://levinthal.design/) · [使用文档](https://levinthal.design/docs.html) · [许可说明](LICENSE.md#中文) · [用户服务协议](TERMS.zh-CN.md) · [隐私政策](PRIVACY.zh-CN.md)

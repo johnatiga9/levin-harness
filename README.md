@@ -40,6 +40,8 @@ This is the official repository for Lévin™ Harness releases, product informat
 
 Choose a version in [Releases](https://github.com/levinthal/levin-harrness/releases), review its release notes, and download the `.dmg` installer from **Assets**.
 
+Before installing or using the app, read the [Terms of Service](TERMS.md), [Privacy Policy](PRIVACY.md), and [License Notice](LICENSE.md).
+
 GitHub's **Code > Download ZIP** and automatically generated **Source code** archives contain this repository's documentation and images, not the application.
 
 ## One workspace for scientific work
@@ -108,15 +110,27 @@ The current preview supports macOS on Apple silicon. Builds for Intel Macs, Wind
 
 ### Is Lévin™ Harness free?
 
-The preview is currently free for non-commercial use, subject to the [Terms of Service](https://levinthal.design/terms.html). Model providers may charge separately for usage; those fees are not included with Lévin™ Harness.
+The preview is currently free for non-commercial use, subject to the [Terms of Service](TERMS.md). Model providers may charge separately for usage; those fees are not included with Lévin™ Harness.
 
 ### Where does my data go?
 
-Projects, conversations, settings, and API keys are stored locally by default. Task content is sent to the model provider you configure, and remote tasks may transfer the inputs needed by your chosen compute host. Review the [Privacy Policy](https://levinthal.design/privacy.html) and your provider's settings for details.
+Projects, conversations, settings, and API keys are stored locally by default. Task content is sent to the model provider you configure, and remote tasks may transfer the inputs needed by your chosen compute host. Review the [Privacy Policy](PRIVACY.md) and your provider's settings for details.
 
 ### Is this an open-source project?
 
 The Lévin™ Harness application source code is not public. This repository provides product information, release downloads, and a place to report problems or request features. Using an integrated open-source tool does not make the application itself open source; individual tools have their own terms.
+
+## License and legal documents
+
+The application is proprietary software. Non-commercial use is permitted under the Terms; modification, redistribution, and commercial use require separate written permission.
+
+| Document | English | 简体中文 |
+| --- | --- | --- |
+| License notice | [License](LICENSE.md#english) | [许可说明](LICENSE.md#中文) |
+| Terms of Service | [Full text](TERMS.md) | [用户服务协议全文](TERMS.zh-CN.md) |
+| Privacy Policy | [Full text](PRIVACY.md) | [隐私政策全文](PRIVACY.zh-CN.md) |
+
+The Terms and Privacy Policy are reproduced from the website, version **V1.0**, with an effective date of **September 10, 2026**. The Chinese text prevails where the language versions differ, as specified in each document.
 
 ## Feedback and community
 
@@ -124,4 +138,4 @@ The Lévin™ Harness application source code is not public. This repository pro
 - Join [Discord](https://discord.gg/yENT5KyBT) or the [Feishu community](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=93blb389-88ea-4c04-a071-fbff366977ae&qr_code=true) for usage questions and research workflow discussions.
 - Read [Support](SUPPORT.md) for what to include in a useful report.
 
-[Website](https://levinthal.design/) · [Documentation](https://levinthal.design/docs.html) · [Terms of Service](https://levinthal.design/terms.html) · [Privacy Policy](https://levinthal.design/privacy.html)
+[Website](https://levinthal.design/) · [Documentation](https://levinthal.design/docs.html) · [License](LICENSE.md) · [Terms of Service](TERMS.md) · [Privacy Policy](PRIVACY.md)
