@@ -1,10 +1,7 @@
 <a name="levin-harness"></a>
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-on-dark.png?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/wordmark-on-light.png?v=2" />
-    <img src="assets/wordmark-on-light.png?v=2" width="320" alt="Lévin™ Harness" />
-  </picture>
+  <img src="assets/wordmark-on-light.png?v=3#gh-light-mode-only" width="320" alt="Lévin™ Harness" />
+  <img src="assets/wordmark-on-dark.png?v=3#gh-dark-mode-only" width="320" alt="Lévin™ Harness" />
 </h1>
 
 <p align="center"><strong>让科学发现可编程。</strong></p>
